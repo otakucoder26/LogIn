@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(92, 94, 95);
+    padding-top: 100px;
+}
+.username{
+    margin-top: none;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(o,0,0,1 green, blue, alpha);
+}
+button{ padding: 10px 20px;
+border: none;
+border-radius: 4px;
+background-color: darksalmon;
+cursor: pointer;
+}\
+button:hover { background-color: black;
+     
+}
